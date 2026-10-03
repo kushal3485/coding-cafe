@@ -29,3 +29,15 @@ The four steps are: 1. Edit/modify files, 2. Check status (`git status`), 3. Sta
 
 ## Question 10
 `README.md` is standard convention across code hosts like GitHub to automatically serve as the homepage documentation for the repository.
+
+##Question 11
+gh auth login stores secure access tokens locally, allowing Git to authenticate automatically without asking for a password on every push
+
+##Question 12
+The README.md file is automatically rendered on the main project page by GitHub to provide immediate documentation to visitors.
+
+##Question 13
+No, git push uploads local commits to GitHub without altering local history.
+
+##Question 14
+A private repository exists on GitHub servers with access restricted to explicit collaborators, whereas a non-existent repository does not exist anywhere on GitHub.
